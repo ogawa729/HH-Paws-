@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: f9accb168853b3742a1ce4a5d28209f2
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 1827226128182048838
+      firstFrame: 0
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: cat03(1) 1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3d66-PolyMeshObject-21010840-001
+      parentName: cat03(1) 1(Clone)
+      position: {x: 0.002689696, y: -0.006818714, z: 0.014389448}
+      rotation: {x: -0.7071067, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 55.62, y: 55.62, z: 55.62}
+    - name: 3d66-Biped_Object-21010840-001
+      parentName: cat03(1) 1(Clone)
+      position: {x: 0.0027536391, y: 0.22142608, z: -0.0978954}
+      rotation: {x: -8.0048224e-26, y: -4.3297773e-17, z: 0.7071063, w: 0.70710725}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-003
+      parentName: 3d66-Biped_Object-21010840-001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.4691996, y: 0.4444383, z: 0.5080184, w: 0.5694241}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-004
+      parentName: 3d66-Biped_Object-21010840-003
+      position: {x: -0.0883642, y: 0.0047024344, z: 0.014266772}
+      rotation: {x: -0.0261569, y: 0.069512315, z: -0.030831793, w: 0.9967614}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: 3d66-Biped_Object-21010840-005
+      parentName: 3d66-Biped_Object-21010840-004
+      position: {x: -0.06974974, y: -0.00006137848, z: 0.0000030720232}
+      rotation: {x: -0.03433225, y: -0.06666915, z: 0.587198, w: 0.8059622}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: 3d66-Biped_Object-21010840-006
+      parentName: 3d66-Biped_Object-21010840-005
+      position: {x: -0.0849572, y: -0.00002796173, z: -0.0000003197789}
+      rotation: {x: -0.28905448, y: 0.6598552, z: 0.41139308, w: 0.55838555}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: 3d66-BoneGeometry-21010840-001
+      parentName: 3d66-Biped_Object-21010840-006
+      position: {x: -0.022893181, y: 0.09517332, z: 0.0027538573}
+      rotation: {x: 0.71163327, y: -0.7025511, z: -0.0000008195762, w: -0.00000006065198}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-015
+      parentName: 3d66-Biped_Object-21010840-006
+      position: {x: -0.052351758, y: 0.04683895, z: 0}
+      rotation: {x: 0.041536327, y: 0.04859987, z: 0.09200496, w: 0.9937042}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: 3d66-Biped_Object-21010840-018
+      parentName: 3d66-Biped_Object-21010840-015
+      position: {x: -0.14092377, y: -0.0054292297, z: -0.062445745}
+      rotation: {x: 0.03022831, y: -0.122025855, z: -0.15849964, w: 0.9793231}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: 3d66-Biped_Object-21010840-019
+      parentName: 3d66-Biped_Object-21010840-018
+      position: {x: -0.038685836, y: -0.00003080368, z: -0.0000000047683715}
+      rotation: {x: -0.000000013670874, y: 0.000000058045597, z: -0.021248372, w: 0.9997742}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: 3d66-Biped_Object-21010840-016
+      parentName: 3d66-Biped_Object-21010840-015
+      position: {x: -0.14091644, y: -0.005431976, z: 0.062443413}
+      rotation: {x: 0.008637271, y: 0.36959493, z: -0.08660023, w: 0.9251083}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: 3d66-Biped_Object-21010840-017
+      parentName: 3d66-Biped_Object-21010840-016
+      position: {x: -0.03868454, y: -0.000030822754, z: 0}
+      rotation: {x: 2.220446e-16, y: -0.000000014901161, z: 0.000000014901161, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-007
+      parentName: 3d66-Biped_Object-21010840-006
+      position: {x: 0.023682173, y: 0.062231474, z: 0.024715198}
+      rotation: {x: 0.7841591, y: -0.04223609, z: -0.6183288, w: -0.03130581}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: 3d66-Biped_Object-21010840-008
+      parentName: 3d66-Biped_Object-21010840-007
+      position: {x: -0.048595604, y: 0, z: -0.000000019073486}
+      rotation: {x: -0.17924844, y: -0.7332403, z: 0.03176883, w: 0.65514845}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: 3d66-Biped_Object-21010840-009
+      parentName: 3d66-Biped_Object-21010840-008
+      position: {x: -0.059444997, y: 0.000000009536743, z: 0}
+      rotation: {x: -0.000024020666, y: 0.014625605, z: -0.10590158, w: 0.99426913}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: 3d66-Biped_Object-21010840-010
+      parentName: 3d66-Biped_Object-21010840-009
+      position: {x: -0.051528785, y: -0.000000009536743, z: 0.0000000047683715}
+      rotation: {x: 0.026974244, y: -0.08174788, z: 0.0802678, w: 0.9930492}
+      scale: {x: 1, y: 0.9999999, z: 1.0000001}
+    - name: 3d66-Biped_Object-21010840-011
+      parentName: 3d66-Biped_Object-21010840-006
+      position: {x: 0.027331714, y: 0.061698597, z: -0.022151107}
+      rotation: {x: 0.49629807, y: -0.010308151, z: 0.86626995, w: 0.056199513}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+    - name: 3d66-Biped_Object-21010840-012
+      parentName: 3d66-Biped_Object-21010840-011
+      position: {x: -0.048595596, y: 0.000000009536743, z: 0}
+      rotation: {x: 0.35893562, y: 0.18122937, z: 0.46417394, w: 0.7892172}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999999}
+    - name: 3d66-Biped_Object-21010840-013
+      parentName: 3d66-Biped_Object-21010840-012
+      position: {x: -0.05944501, y: 0, z: 0.000000009536743}
+      rotation: {x: -0.0000000029867187, y: 0.000000002902886, z: 0.32969794, w: 0.9440865}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: 3d66-Biped_Object-21010840-014
+      parentName: 3d66-Biped_Object-21010840-013
+      position: {x: -0.05152881, y: -0.000000009536743, z: 0.000000009536743}
+      rotation: {x: 0.085084744, y: 0.01278101, z: -0.4026428, w: 0.9113046}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: 3d66-Biped_Object-21010840-024
+      parentName: 3d66-Biped_Object-21010840-004
+      position: {x: 0.097536124, y: 0.004496708, z: -0.059235353}
+      rotation: {x: 0.74271244, y: -0.66462976, z: 0.033643637, w: -0.074253745}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: 3d66-Biped_Object-21010840-025
+      parentName: 3d66-Biped_Object-21010840-024
+      position: {x: -0.15645076, y: -0.000000019073486, z: 0.0000000047683715}
+      rotation: {x: -0.0000000056256693, y: -0.000000005667142, z: 0.013980895, w: 0.9999023}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-026
+      parentName: 3d66-Biped_Object-21010840-025
+      position: {x: -0.036134895, y: 0, z: 0}
+      rotation: {x: -0.06276126, y: 0.016672831, z: -0.1591088, w: 0.9851231}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-027
+      parentName: 3d66-Biped_Object-21010840-026
+      position: {x: -0.02089447, y: 0.04106755, z: 0.0000000047683715}
+      rotation: {x: -0.0000000119647, y: 0.00000001856125, z: -0.53361464, w: 0.84572774}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: 3d66-Biped_Object-21010840-020
+      parentName: 3d66-Biped_Object-21010840-004
+      position: {x: 0.0816686, y: -0.0020409203, z: 0.055341575}
+      rotation: {x: 0.75716126, y: -0.65181565, z: 0.017387211, w: 0.039255187}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-021
+      parentName: 3d66-Biped_Object-21010840-020
+      position: {x: -0.15645075, y: 0, z: -0.0000000047683715}
+      rotation: {x: -0.000000002680335, y: 0.0000000334203, z: 0.07994411, w: 0.99679935}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: 3d66-Biped_Object-21010840-022
+      parentName: 3d66-Biped_Object-21010840-021
+      position: {x: -0.036134895, y: 0, z: 0}
+      rotation: {x: 0.024804993, y: -0.038242858, z: 0.01671136, w: 0.9988208}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: 3d66-Biped_Object-21010840-023
+      parentName: 3d66-Biped_Object-21010840-022
+      position: {x: -0.020894464, y: 0.041067533, z: 0}
+      rotation: {x: -0.00000001183379, y: 0.000000018197683, z: -0.56280494, w: 0.82658976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-028
+      parentName: 3d66-Biped_Object-21010840-004
+      position: {x: 0.17534296, y: -0.017678585, z: -0.003878483}
+      rotation: {x: -0.13758673, y: 0.07456074, z: 0.7114703, w: -0.6850699}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: 3d66-Biped_Object-21010840-029
+      parentName: 3d66-Biped_Object-21010840-028
+      position: {x: -0.08035962, y: -0.000055847166, z: 0.0000013589859}
+      rotation: {x: 0.011594702, y: 0.018775381, z: -0.10180317, w: 0.9945599}
+      scale: {x: 1, y: 0.99999976, z: 0.99999994}
+    - name: 3d66-Biped_Object-21010840-030
+      parentName: 3d66-Biped_Object-21010840-029
+      position: {x: -0.080368534, y: -0.000049228667, z: -0.000008201599}
+      rotation: {x: 0.33629096, y: 0.9068456, z: -0.11326679, w: 0.22739874}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: 3d66-Biped_Object-21010840-031
+      parentName: 3d66-Biped_Object-21010840-030
+      position: {x: -0.08037277, y: -0.000044012068, z: -0.000014095306}
+      rotation: {x: 0.085729666, y: -0.08218566, z: -0.3857298, w: 0.91493636}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: 3d66-Biped_Object-21010840-002
+      parentName: 3d66-Biped_Object-21010840-001
+      position: {x: -0.21484025, y: -0.00000028163194, z: 0}
+      rotation: {x: -0.50000036, y: 0.49999967, z: -0.49999967, w: 0.50000036}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
